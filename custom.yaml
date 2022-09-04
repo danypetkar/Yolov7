@@ -1,0 +1,8 @@
+train: vipul-1/train/images
+test: vipul-1/test/images
+val: vipul-1/valid/images
+#Classes
+nc: 2
+#classes names
+#replace all class names list with your classes names
+names: ['helmet', 'no_helmet'] 
